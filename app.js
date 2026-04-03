@@ -14,7 +14,7 @@ let dlModel;
  */
 async function init() {
     try {
-        dlModel = await tf.loadLayersModel('./dl_model/model.json');
+        dlModel = await tf.loadLayersModel('dl_model/model.json');
         console.log("Deep Learning model loaded successfully.");
     } catch (e) {
         console.error("Detailed Error:", e);
