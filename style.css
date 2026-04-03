@@ -85,13 +85,16 @@ select:focus { border-color: #1a237e; box-shadow: 0 0 0 2px rgba(26,35,126,0.1);
 }
 .btn-predict:hover { background: #0d47a1; transform: translateY(-1px); box-shadow: 0 4px 10px rgba(13,71,161,0.2); }
 
-/* Note for Prediction Results - Centered & Small (13px) */
+/* Note for Prediction Results - Fixed Centering & Size */
 .prediction-note {
+    display: block;
     text-align: center;
+    width: 100%;
+    margin: 15px auto 5px auto;
     font-size: 13px;
     color: #5f6368;
-    margin: 15px 0 5px 0;
     line-height: 1.4;
+    clear: both;
 }
 
 /* Results Section */
