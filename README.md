@@ -39,7 +39,7 @@ To bridge the gap between Artificial Intelligence and Forensic Expertise, the sy
 - `style.css`: UI styling.
 
 ## 🚀 How to Use
-1. Access the tool via GitHub Pages: [Forensic Bone DNA Triage ver 1.0](https://reichu31.github.io/CDI-Bone-Triage-Tool/)
+1. Access the tool via GitHub Pages: [Forensic Bone DNA Triage ver 1.0]([https://reichu31.github.io/CDI-Bone-Triage-Tool](https://reichu31.github.io/Forensic-Bone-DNA-Triage-Tool/)
 2. Select the morphological grades for each of the 7 characteristics.
 3. Choose a specific model or "All Models" for comparison.
 4. Click **"Run Prediction"** to see the probability and PASS/FAIL status.
