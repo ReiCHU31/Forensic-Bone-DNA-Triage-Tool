@@ -42,8 +42,10 @@ To bridge the gap between Artificial Intelligence and Forensic Expertise, the sy
 4. Click **"Run Prediction"** to see the probability and PASS/FAIL status.
 
 ## 📜 Citation
-If you find this tool useful for your research, please cite our manuscript:
-*Phuong T.M. Chu, Thomas J. Parsons, Anh P. Nguyen, Vinh V. Tran, Tuan A. Vu, Phong H. Do, Ha M. Tran, Mai T.T. Bui, Lan T.T. Ninh, Vu H. Nguyen, Ha H. Chu, Tien Q. Phi, Thanh T. Tran (2026). Application of Machine Learning to Evaluate the Predictive Potential of Morphological Characteristics for Mitochondrial DNA Profiling from Challenging Bone Samples.*
+If you find this tool useful for your research, please cite our manuscript and article:
+
+- *Phuong T.M. Chu, Thomas J. Parsons, Anh P. Nguyen, Vinh V. Tran, Tuan A. Vu, Phong H. Do, Ha M. Tran, Mai T.T. Bui, Lan T.T. Ninh, Vu H. Nguyen, Ha H. Chu, Tien Q. Phi, Thanh T. Tran (2026). Application of Machine Learning to Evaluate the Predictive Potential of Morphological Characteristics for Mitochondrial DNA Profiling from Challenging Bone Samples. (Manuscript)*
+- *Parsons TJ, Nguyen NN, Le DT, Chu PT, Vu TA, Tran VV, Do PH, Tran LH, Tran HM, Bui MT, Hoang TT (2026) DNA Preservation in Highly Degraded Skeletal Remains from the Vietnam War—Characterization and DNA Extraction Evaluation for Nuclear SNP Panel Testing. Forensic Science International: Genetics. 2026 Feb 2:103443.*
 
 ---
 © 2026 Center for DNA Identification (CDI) | IB | VAST
