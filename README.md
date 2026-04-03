@@ -7,9 +7,12 @@ Affiliation: **Center for DNA Identification (CDI), Institute of Biology (IB), V
 ---
 
 ## 📌 Project Overview
-This repository hosts an advanced forensic screening tool designed to predict the success of mitochondrial DNA (mtDNA) PCR amplification from highly degraded skeletal remains. 
+This repository presents a **pilot study** and a **prototype screening tool** designed to explore the potential of predicting mtDNA PCR success in degraded skeletal remains. Given the inherent complexity of forensic samples, this tool serves as a **preliminary decision-support system** rather than a definitive diagnostic solution.
 
-Unlike single-algorithm tools, this system implements a **Multi-Model Ensemble & Comparison framework**, allowing forensic experts to cross-validate predictions across five distinct machine learning architectures. This ensures maximum reliability and minimizes the risk of discarding viable DNA samples.
+Unlike single-algorithm approaches, this framework provides a **Multi-Model Comparison interface**, allowing researchers to observe predictions across five different machine learning architectures. This multi-perspective approach is intended to assist forensic experts in cross-validating results, thereby reducing the risk of prematurely discarding potentially viable samples.
+
+**Current Limitations & Future Development:**
+As a first-version prototype, the models are trained on a specific dataset from CDI and may exhibit limitations in generalized accuracy. Further refinement, including the integration of larger multi-center datasets and more robust feature engineering, is required to enhance the system's predictive power and reliability for routine forensic casework.
 
 ## 🔬 Predictive Architectures
 The tool integrates five optimized models, each selected for its unique strengths in handling complex morphological data:
